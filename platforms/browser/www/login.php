@@ -93,7 +93,7 @@
 										<h2>Menu</h2>
 									</header>
 									<ul>
-										<li><a href="index">Página principal</a></li>
+										<li><a href="index.php">Página principal</a></li>
 										
 									</ul>
 								</nav>
