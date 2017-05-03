@@ -111,12 +111,12 @@
 										<h2>Menu</h2>
 									</header>
 									<ul>
-										<li><a href="index">Página Principal</a></li>
+										<li><a href="index.php">Página Principal</a></li>
 										
 										<li>
 											<span class="opener">Sistema</span>
 											<ul>
-												<li><a href="login">Login</a></li>
+												<li><a href="login.php">Login</a></li>
 											</ul>
 										</li>								
 
